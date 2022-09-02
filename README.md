@@ -22,9 +22,9 @@ Inside ``.env`` file enter the following environment variables:
 # For testing, you can use a fake SMTP service like Ethereal: https://ethereal.email/create
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=465
-SMTP_USERNAME=rohan.awan863@gmail.com
-SMTP_PASSWORD=edvfxnbtxvbdtajm
-EMAIL_FROM=rohan.awan863@gmail.com
+SMTP_USERNAME= YOUR_USERNAME
+SMTP_PASSWORD= YOUR_PASSWORD
+EMAIL_FROM= EMAIL_FROM_WHICH_YOU_WANT_TO_SEND
 ```
 
 2) Run this command in the project terminal to install dependencies:
